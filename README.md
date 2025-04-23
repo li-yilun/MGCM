@@ -1,2 +1,2 @@
 # MGCM
-MGCM: Multi-modal Graph Convolutional Mamba for Cancer Survival Prediction
+MGCM: Multi-modal Graph Convolutional Mamba for Cancer Survival Prediction.
